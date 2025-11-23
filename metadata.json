@@ -1,0 +1,7 @@
+{
+  "name": "Urban Task Helper",
+  "description": "A modern, cross-platform local service provider directory and booking application. Connects customers with local experts like plumbers, electricians, and tutors via a clean mobile-first interface.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
